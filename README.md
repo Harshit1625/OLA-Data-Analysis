@@ -18,3 +18,6 @@ Through this study, we aim to **identify trends in cancellations** ultimately pr
 2️⃣ Identifying key patterns based on time, location, demand, and user behavior.
 
 3️⃣ Strategies to reduce cancellations, improve driver accountability, and enhance customer satisfaction.
+
+
+![Image](https://github.com/user-attachments/assets/2009c611-aa21-449b-bc72-97059b0e00fd)
